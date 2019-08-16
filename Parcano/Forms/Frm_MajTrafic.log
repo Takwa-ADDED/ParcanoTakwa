@@ -1,0 +1,10 @@
+Ligne 77: La classe SToolBox.SDateBox du contrôle cda_Sortie n'est pas une classe de contrôle chargée.
+Ligne 88: La classe SToolBox.STimeBox du contrôle H_Sorte n'est pas une classe de contrôle chargée.
+Ligne 156: La classe SToolBox.STimeBox du contrôle H_Entre n'est pas une classe de contrôle chargée.
+Ligne 166: La classe SToolBox.SDateBox du contrôle cda_Entre n'est pas une classe de contrôle chargée.
+Ligne 177: La classe SToolBox.SCommand du contrôle Cmd_Destination n'est pas une classe de contrôle chargée.
+Ligne 198: La classe SToolBox.SCommand du contrôle Cmd_Vehicule n'est pas une classe de contrôle chargée.
+Ligne 219: La classe SToolBox.SCommand du contrôle Cmd_Conducteur n'est pas une classe de contrôle chargée.
+Ligne 240: La classe SToolBox.SGrid du contrôle grid_vehicule n'est pas une classe de contrôle chargée.
+Ligne 270: La classe SToolBox.SGrid du contrôle grid_Conducteur n'est pas une classe de contrôle chargée.
+Ligne 299: La classe SToolBox.SGrid du contrôle grid_destination n'est pas une classe de contrôle chargée.

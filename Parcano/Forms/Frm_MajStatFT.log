@@ -1,0 +1,6 @@
+Ligne 19: La classe SToolBox.STimeBox du contrôle txt_HeureSortie n'est pas une classe de contrôle chargée.
+Ligne 28: La classe SToolBox.SCommand du contrôle SCommand1 n'est pas une classe de contrôle chargée.
+Ligne 48: La classe SToolBox.SDateBox du contrôle cbo_DateSortie n'est pas une classe de contrôle chargée.
+Ligne 101: La classe SToolBox.SCommand du contrôle SCommand2 n'est pas une classe de contrôle chargée.
+Ligne 121: La classe SToolBox.SDateBox du contrôle cbo_DateEntre n'est pas une classe de contrôle chargée.
+Ligne 131: La classe SToolBox.STimeBox du contrôle txt_heureEntre n'est pas une classe de contrôle chargée.

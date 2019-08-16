@@ -1,0 +1,13 @@
+Ligne 18: La classe TabDlg.SSTab du contrôle TabDestination n'est pas une classe de contrôle chargée.
+Ligne 59: La classe SToolBox.SOptionButton du contrôle Opt_Jour n'est pas une classe de contrôle chargée.
+Ligne 79: La classe SToolBox.SOptionButton du contrôle Opt_soir n'est pas une classe de contrôle chargée.
+Ligne 99: La classe SToolBox.SOptionButton du contrôle Opt_matin n'est pas une classe de contrôle chargée.
+Ligne 224: La classe MSComCtl2.UpDown du contrôle UpDown1 n'est pas une classe de contrôle chargée.
+Ligne 235: La classe SToolBox.STimeBox du contrôle Txt_MaxDuree n'est pas une classe de contrôle chargée.
+Ligne 245: La classe SToolBox.SCheckBox du contrôle chk_Actif n'est pas une classe de contrôle chargée.
+Ligne 267: La classe SToolBox.SCommand du contrôle cmdFindReparation n'est pas une classe de contrôle chargée.
+Ligne 289: La classe MSComCtl2.UpDown du contrôle UpDown2 n'est pas une classe de contrôle chargée.
+Ligne 538: La classe SToolBox.SCommand du contrôle CmdSave n'est pas une classe de contrôle chargée.
+Ligne 559: La classe SToolBox.SCommand du contrôle CmdDelete n'est pas une classe de contrôle chargée.
+Ligne 580: La classe SToolBox.SCommand du contrôle CmdFind n'est pas une classe de contrôle chargée.
+Ligne 601: La classe SToolBox.SCommand du contrôle CmdAdd n'est pas une classe de contrôle chargée.

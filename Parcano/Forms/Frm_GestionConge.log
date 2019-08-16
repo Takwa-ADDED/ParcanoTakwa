@@ -1,0 +1,11 @@
+Ligne 20: La classe TabDlg.SSTab du contrôle STab_conge n'est pas une classe de contrôle chargée.
+Ligne 72: La classe SToolBox.SGrid du contrôle grid n'est pas une classe de contrôle chargée.
+Ligne 109: La classe SToolBox.SOptionButton du contrôle Opt_Sup n'est pas une classe de contrôle chargée.
+Ligne 129: La classe SToolBox.SOptionButton du contrôle OptNSup n'est pas une classe de contrôle chargée.
+Ligne 149: La classe SToolBox.SBiCombo du contrôle Scbo_Conduc n'est pas une classe de contrôle chargée.
+Ligne 168: La classe MSComCtl2.DTPicker du contrôle cda_Deb n'est pas une classe de contrôle chargée.
+Ligne 190: La classe MSComCtl2.DTPicker du contrôle cda_au n'est pas une classe de contrôle chargée.
+Ligne 364: La classe SToolBox.SBiCombo du contrôle Cbo_Conducteur n'est pas une classe de contrôle chargée.
+Ligne 383: La classe SToolBox.SCommand du contrôle Cmd_FindConducteur n'est pas une classe de contrôle chargée.
+Ligne 434: La classe MSComCtl2.DTPicker du contrôle cda_Debut n'est pas une classe de contrôle chargée.
+Ligne 520: La classe MSComCtl2.DTPicker du contrôle cda_Fin n'est pas une classe de contrôle chargée.

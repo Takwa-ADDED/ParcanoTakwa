@@ -1,0 +1,17 @@
+Ligne 609: La classe MSComctlLib.ListView du contrôle grid n'est pas une classe de contrôle chargée.
+Ligne 615: Le nom de la propriété _ExtentX dans grid est incorrect.
+Ligne 616: Le nom de la propriété _ExtentY dans grid est incorrect.
+Ligne 617: Le nom de la propriété View dans grid est incorrect.
+Ligne 618: Le nom de la propriété LabelEdit dans grid est incorrect.
+Ligne 619: Le nom de la propriété MultiSelect dans grid est incorrect.
+Ligne 620: Le nom de la propriété LabelWrap dans grid est incorrect.
+Ligne 621: Le nom de la propriété HideSelection dans grid est incorrect.
+Ligne 622: Le nom de la propriété FullRowSelect dans grid est incorrect.
+Ligne 623: Le nom de la propriété GridLines dans grid est incorrect.
+Ligne 624: Le nom de la propriété _Version dans grid est incorrect.
+Ligne 638: Le nom de la propriété NumItems dans grid est incorrect.
+Ligne 642: Le nom de la propriété ColumnHeader(1) dans grid est incorrect.
+Ligne 647: Le nom de la propriété ColumnHeader(2) dans grid est incorrect.
+Ligne 652: Le nom de la propriété ColumnHeader(3) dans grid est incorrect.
+Ligne 657: Le nom de la propriété ColumnHeader(4) dans grid est incorrect.
+Ligne 662: Le nom de la propriété ColumnHeader(5) dans grid est incorrect.

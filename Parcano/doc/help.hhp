@@ -1,0 +1,27 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Parcano.chm
+Contents file=contents.hhc
+Default Window=Help Viewer
+Default topic=Parcano.html
+Display compile progress=No
+Full-text search=Yes
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=Parcano
+
+[WINDOWS]
+Help Viewer=,"contents.hhc","index.hhk","Parcano.html","Parcano.html",,,,,0x33520,,0x10387e,,,,,,,,0
+
+[FILES]
+backsdk3.css
+backsdk4.css
+seealso.gif
+requirements.gif
+filter.gif
+langref.js
+linkcss.js
+Parcano.html
+
+[INFOTYPES]
+

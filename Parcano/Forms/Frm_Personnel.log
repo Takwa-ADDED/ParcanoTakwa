@@ -1,0 +1,10 @@
+Ligne 18: La classe MSComDlg.CommonDialog du contrôle CDlg n'est pas une classe de contrôle chargée.
+Ligne 25: La classe TabDlg.SSTab du contrôle Tab_Personnel n'est pas une classe de contrôle chargée.
+Ligne 236: La classe SToolBox.SCheckBox du contrôle Chk_Permi n'est pas une classe de contrôle chargée.
+Ligne 291: La classe MSComCtl2.DTPicker du contrôle cda_DateLivrPermi n'est pas une classe de contrôle chargée.
+Ligne 427: La classe SToolBox.SCommand du contrôle Cmd_Photo n'est pas une classe de contrôle chargée.
+Ligne 539: La classe SToolBox.SCommand du contrôle cmdFindMatricule n'est pas une classe de contrôle chargée.
+Ligne 889: La classe SToolBox.SCommand du contrôle CmdSave n'est pas une classe de contrôle chargée.
+Ligne 910: La classe SToolBox.SCommand du contrôle CmdDelete n'est pas une classe de contrôle chargée.
+Ligne 931: La classe SToolBox.SCommand du contrôle CmdFind n'est pas une classe de contrôle chargée.
+Ligne 952: La classe SToolBox.SCommand du contrôle CmdAdd n'est pas une classe de contrôle chargée.
